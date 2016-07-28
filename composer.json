@@ -1,0 +1,50 @@
+{
+  "name": "elfeffe/leguide-feed",
+  "description": "Leguide Product Feed for PHP",
+  "homepage": "https://github.com/elfeffe/leguide-product-feed",
+  "license": "GPLv3",
+  "keywords": [
+    "Leguide",
+    "Shopping",
+    "Feed",
+    "API",
+    "PHP",
+  ],
+  "authors": [
+    {
+      "name": "Federico Reggiani",
+      "email": "federico@foto24.com",
+      "homepage": "http://www.foto24.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "federico@foto24.com",
+    "issues": "https://github.com/elfeffe/leguide-product-feed/issues",
+    "source": "https://github.com/github.com/elfeffe/leguide-product-feed",
+    "docs": "https://github.com/github.com/elfeffe/leguide-product-feed"
+  },
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "elfeffe\\LeguideFeed\\": "src/elfeffe/GLeguideFeed"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.org/packages/elfeffe/leguide-product-feed"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/elfeffe/leguide-product-feed"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
