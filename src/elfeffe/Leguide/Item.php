@@ -1,8 +1,8 @@
 <?php
-namespace elfeffe\LeguideFeed;
+namespace elfeffe\Leguide;
 
-use elfeffe\LeguideFeed\Node;
-use elfeffe\LeguideFeed\Containers\Leguide;
+use elfeffe\Leguide\Node;
+use elfeffe\Leguide\Containers\Leguide;
 
 class Item
 {

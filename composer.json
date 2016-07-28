@@ -32,7 +32,7 @@
   },
   "autoload": {
     "psr-4": {
-      "elfeffe\\LeguideFeed\\": "src/elfeffe/GLeguideFeed"
+      "elfeffe\\Leguide\\": "src/elfeffe/Leguide"
     }
   },
   "repositories": [

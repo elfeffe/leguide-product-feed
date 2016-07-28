@@ -1,5 +1,5 @@
 <?php
-namespace elfeffe\LeguideFeed;
+namespace elfeffe\Leguide;
 
 class Node
 {

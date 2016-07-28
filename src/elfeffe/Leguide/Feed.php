@@ -1,8 +1,8 @@
 <?php
-namespace elfeffe\LeguideFeed;
+namespace elfeffe\Leguide;
 
 use SimpleXMLElement;
-use elfeffe\LeguideFeed\Item;
+use elfeffe\Leguide\Item;
 
 class Feed
 {

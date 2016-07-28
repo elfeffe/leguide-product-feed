@@ -1,7 +1,7 @@
 <?php
-namespace elfeffe\LeguideFeed\Containers;
+namespace elfeffe\Leguide\Containers;
 
-use elfeffe\LeguideFeed\Feed;
+use elfeffe\Leguide\Feed;
 
 class Leguide
 {
